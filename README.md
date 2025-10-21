@@ -1,4 +1,3 @@
-# huggingface-text-summarizer
 ---
 title: Text Summarizer
 emoji: 📝
@@ -10,3 +9,4 @@ app_file: app.py
 pinned: false
 license: cc
 ---
+
